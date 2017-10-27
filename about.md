@@ -4,7 +4,7 @@ title: About
 ---
 
 Hi, my name is Delly Sartika.<br>
-I’m a *Technical Artist* at *ArenaNet* and a hobbyst game developer.
+I’m a *Technical Artist* at *ArenaNet* and a hobbyist game developer.
 <br>
 
 **Work Experience** :
