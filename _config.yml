@@ -10,7 +10,7 @@ title:            Delly Sartika
 tagline:          GitHub Site
 description:      Games & Other Stuff
 url:              https://sartikadelly.github.io
-baseurl:          /
+baseurl:          https://sartikadelly.github.io/
 
 author:
   name:           'Mark Otto'
