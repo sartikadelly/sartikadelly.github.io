@@ -193,25 +193,52 @@ pre code {
 }
 
 /* Gist via GitHub Pages */
-.gist .gist-file {
-  font-family: Menlo, Monaco, "Courier New", monospace !important;
+/* Body */
+.gist-data tbody { background-color: Black; }
+
+/* Line Numbers */
+.gist-data tbody td:nth-of-type(1) {
+  color: #2B91AF !important;
 }
-.gist .markdown-body {
-  padding: 15px;
+
+/* Code */
+.gist-data tbody td:nth-of-type(2){
+  color: #FFFFFF !important;
 }
-.gist pre {
-  padding: 0;
-  background-color: transparent;
+
+/* Comments */
+.pl-c
+{
+  color: #57A64A !important;
 }
-.gist .gist-file .gist-data {
-  font-size: .8rem !important;
-  line-height: 1.4;
+
+/* Function */
+.pl-k, tbody tr:first-child .blob-code, tbody tr:last-child .blob-code
+{
+  color: #569CD6 !important;
 }
-.gist code {
-  padding: 0;
-  color: inherit;
-  background-color: transparent;
-  border-radius: 0;
+
+/* Function Name */
+.pl-en
+{
+  color: #FFFFFF !important;
+}
+
+/* Function Method */
+.pl-c1
+{
+  color: #FFFFFF !important;
+}
+/* "'s around Strings */
+.pl-pds
+{
+  color: #D69D85 !important;
+}
+
+/* Strings */
+.pl-s
+{
+  color: #D69D85 !important;
 }
 
 /* Quotes */
