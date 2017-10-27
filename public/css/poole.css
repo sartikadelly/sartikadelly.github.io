@@ -60,7 +60,7 @@ html {
 
 body {
   color: #bbb;
-  background-color: #1e1e1e;
+  background-color: #272727;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -159,8 +159,8 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 85%;
-  color: #bf616a;
-  background-color: #f9f9f9;
+  color: #BBB;
+  background-color: #1e1e1e;
   border-radius: 3px;
 }
 pre {
