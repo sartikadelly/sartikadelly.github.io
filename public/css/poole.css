@@ -59,15 +59,15 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  color: #bbb;
+  background-color: #1e1e1e;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: #13aff0;
   text-decoration: none;
 }
 a strong {
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #f1f1f1;
   text-rendering: optimizeLegibility;
 }
 h1 {
