@@ -3,12 +3,21 @@ layout: post
 title: Maya PyMEL quick cheatsheet
 ---
 
-Testing 1st post with a PyMEL cheatsheet, as a reminder for myself.
+Testing 1st post with embedded code & gist.
 
-Testing python code:
+Embed python code:
 ```python
-# Simpy Getting Shapes from Shape/Vertex/Face/Mesh/Transform
-shape = selection.getShape() if pm.objectType(selection, isType='transform') else pm.PyNode(selection)
+import random
+import pymel.core as pm
+
+# Create new shader
+shader, shadingGrp = pm.createSurfaceShader('lambert', name='my_material')
+
+# Randomize color
+shader.setColor([random.random(), random.random(), random.random()])
+
+# Assign new shader to selected object
+pm.sets(shadingGrp, forceElement=pm.selected())
 ```
 
 Embed Gist test:<br>
