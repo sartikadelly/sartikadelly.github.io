@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Works
 ---
 
 A collection of my past work, might take a while to load the whole page.
