@@ -45,17 +45,17 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
