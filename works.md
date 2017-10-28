@@ -49,13 +49,13 @@ Maclaine Diemer did the music, Matthew Oswald & Taylor helps me with the title s
 
 *Some Screenshots:* <br />
 ![<img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Boss-300x225.png.png">]({{ site.baseurl }}public/images/portfolio/Boss.png)
-[<img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Kick-300x225.png.png">]({{ site.baseurl }}public/images/portfolio/Kick.png) <br />
+![<img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Kick-300x225.png.png">]({{ site.baseurl }}public/images/portfolio/Kick.png)<br />
 
 inline url test: <br />
-<a href="{{ site.baseurl }}public/images/portfolio/Boss.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Boss-300x225.png.png"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/Kick.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Kick-300x225.png.png"></a><br />
-<a href="{{ site.baseurl }}public/images/portfolio/ShopKeep.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShopKeep-300x225.png.png"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/Cave.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Cave-300x225.png.png"></a><br />
+<a href="{{ site.baseurl }}public/images/portfolio/Boss.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Boss-300x225.png"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/Kick.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Kick-300x225.png"></a><br />
+<a href="{{ site.baseurl }}public/images/portfolio/ShopKeep.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShopKeep-300x225.png"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/Cave.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Cave-300x225.png"></a><br />
 
 
 
