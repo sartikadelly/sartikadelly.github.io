@@ -155,10 +155,10 @@ abbr[title] {
 code,
 pre {
   font-family: Menlo, Monaco, "Courier New", monospace;
+  font-size: 20px;
 }
 code {
   padding: .25em .5em;
-  font-size: 20px;
   color: #BBB;
   background-color: #1e1e1e;
   border-radius: 3px;
