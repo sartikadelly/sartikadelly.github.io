@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maya PyMEL quick cheatsheet
+title: Testing embedded python code & gist
 ---
 
 Testing 1st post with embedded code & gist.
