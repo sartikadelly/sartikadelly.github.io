@@ -41,13 +41,13 @@ I did the design, programming and most of the in-game art, the game is built usi
 Maclaine Diemer did the music, Matthew Oswald & Taylor helps me with the title screen, ending screen and boss design.
 
 *Play the game here:*  
-[](https://d3b4yo2b5lbfy.cloudfront.net/rampage/index.html)
+<https://d3b4yo2b5lbfy.cloudfront.net/rampage/index.html>
 
 *More details in here:*  
 [](https://www.guildwars2.com/en/news/presenting-the-rytlocks-critter-rampage-game/)
-[](http://wiki.guildwars2.com/wiki/Rytlock’s_Critter_Rampage)
+[http://wiki.guildwars2.com/wiki/Rytlock’s_Critter_Rampage](http://wiki.guildwars2.com/wiki/Rytlock’s_Critter_Rampage)
 
 *Some Screenshots:*
-![](https://github.com/sartikadelly/sartikadelly.github.io/blob/master/public/images/portfolio/Boss.png)
-![]({{ site.baseurl }}public/images/portfolio/Kick.png)
-![](https://sartikadelly.github.io/public/images/portfolio/Cave.png)
+![image](https://github.com/sartikadelly/sartikadelly.github.io/blob/master/public/images/portfolio/Boss.png)
+![image]({{ site.baseurl }}public/images/portfolio/Kick.png)
+![image](https://sartikadelly.github.io/public/images/portfolio/Cave.png)
