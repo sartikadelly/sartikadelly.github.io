@@ -47,14 +47,16 @@ Maclaine Diemer did the music, Matthew Oswald & Taylor helps me with the title s
 [https://www.guildwars2.com/en/news/presenting-the-rytlocks-critter-rampage-game/](https://www.guildwars2.com/en/news/presenting-the-rytlocks-critter-rampage-game/) <br />
 [http://wiki.guildwars2.com/wiki/Rytlock’s_Critter_Rampage](http://wiki.guildwars2.com/wiki/Rytlock’s_Critter_Rampage)
 
-*Some Screenshots:*
-![image]({{ site.baseurl }}public/images/portfolio/Boss.png)
-![image]({{ site.baseurl }}public/images/portfolio/Kick.png)
-![image]({{ site.baseurl }}public/images/portfolio/Cave.png)<br />
-<img src="{{ site.baseurl }}public/images/portfolio/Boss.png" width="300">
-<img src="{{ site.baseurl }}public/images/portfolio/Kick.png" width="300"><br />
-<img src="{{ site.baseurl }}public/images/portfolio/ShopKeep.png" width="300">
-<img src="{{ site.baseurl }}public/images/portfolio/Cave.png" width="300"><br />
+*Some Screenshots:* <br />
+![<img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Boss-300x225.png.png">]({{ site.baseurl }}public/images/portfolio/Boss.png)
+[<img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Kick-300x225.png.png">]({{ site.baseurl }}public/images/portfolio/Kick.png) <br />
+
+inline url test: <br />
+<a href="{{ site.baseurl }}public/images/portfolio/Boss.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Boss-300x225.png.png"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/Kick.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Kick-300x225.png.png"></a><br />
+<a href="{{ site.baseurl }}public/images/portfolio/ShopKeep.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShopKeep-300x225.png.png"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/Cave.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Cave-300x225.png.png"></a><br />
+
 
 
 
