@@ -6,7 +6,7 @@ title: Works
 A collection of my past work, might take a while to load the whole page.
 
 ### Game Dev
-Rytlock’s Critter Rampage (HTML5)  
+[Rytlock’s Critter Rampage (HTML5)](#rytlock)  
 Itemania (iOS – Unity)  
 Esper Quest (iOS – Unity)
 
@@ -35,7 +35,7 @@ GuildWars 2 Cinematics Dragon
 GuildWars 2 Cinematics Charr Blood  
 GuildWars 2 Cinematic Iceberg  
 
-#### Rytlock’s Critter Rampage (HTML5)
+#### <a name="rytlock"></a>Rytlock’s Critter Rampage (HTML5)
 A game I made for ArenaNet April’s Fools 2013.  
 I did the design, programming and most of the in-game art, the game is built using Construct 2 Game engine.  
 Maclaine Diemer did the music, Matthew Oswald & Taylor helps me with the title screen, ending screen and boss design.
