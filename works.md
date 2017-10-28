@@ -40,14 +40,14 @@ A game I made for ArenaNet April’s Fools 2013.
 I did the design, programming and most of the in-game art, the game is built using Construct 2 Game engine.  
 Maclaine Diemer did the music, Matthew Oswald & Taylor helps me with the title screen, ending screen and boss design.
 
-*Play the game here:*  
+*Play the game here:*  <br />
 <https://d3b4yo2b5lbfy.cloudfront.net/rampage/index.html>
 
-*More details in here:*  
-[](https://www.guildwars2.com/en/news/presenting-the-rytlocks-critter-rampage-game/)
+*More details in here:*  <br />
+[https://www.guildwars2.com/en/news/presenting-the-rytlocks-critter-rampage-game/](https://www.guildwars2.com/en/news/presenting-the-rytlocks-critter-rampage-game/) <br />
 [http://wiki.guildwars2.com/wiki/Rytlock’s_Critter_Rampage](http://wiki.guildwars2.com/wiki/Rytlock’s_Critter_Rampage)
 
 *Some Screenshots:*
-![image](https://github.com/sartikadelly/sartikadelly.github.io/blob/master/public/images/portfolio/Boss.png)
+![image]({{ site.baseurl }}public/images/portfolio/Boss.png)
 ![image]({{ site.baseurl }}public/images/portfolio/Kick.png)
-![image](https://sartikadelly.github.io/public/images/portfolio/Cave.png)
+![image]({{ site.baseurl }}public/images/portfolio/Cave.png)
