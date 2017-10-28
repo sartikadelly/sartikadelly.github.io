@@ -3,8 +3,7 @@ layout: post
 title: Testing embedded python code & gist
 ---
 
-Testing 1st post with embedded code & gist.
-
+Test post with embedded code & gist.
 Embed python code:
 ```python
 import random
