@@ -11,3 +11,7 @@ Testing python code:
 shape = selection.getShape() if pm.objectType(selection, isType='transform') else pm.PyNode(selection)
 ```
 
+Embed Gist test:<br>
+Maya python script for doing cube reset on selected object
+
+{% gist 3a2f1f07ef795074781a191fd4e4e224 %}
