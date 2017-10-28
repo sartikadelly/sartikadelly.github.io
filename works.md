@@ -50,4 +50,11 @@ Maclaine Diemer did the music, Matthew Oswald & Taylor helps me with the title s
 *Some Screenshots:*
 ![image]({{ site.baseurl }}public/images/portfolio/Boss.png)
 ![image]({{ site.baseurl }}public/images/portfolio/Kick.png)
-![image]({{ site.baseurl }}public/images/portfolio/Cave.png)
+![image]({{ site.baseurl }}public/images/portfolio/Cave.png)<br />
+<img src="{{ site.baseurl }}public/images/portfolio/Boss.png" width="300">
+<img src="{{ site.baseurl }}public/images/portfolio/Kick.png" width="300"><br />
+<img src="{{ site.baseurl }}public/images/portfolio/ShopKeep.png" width="300">
+<img src="{{ site.baseurl }}public/images/portfolio/Cave.png" width="300"><br />
+
+
+
