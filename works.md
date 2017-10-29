@@ -84,13 +84,13 @@ A point and click game using Unity engine, I put this project on hold because th
 
 *Screenshots:* <br />
 <a href="{{ site.baseurl }}public/images/portfolio/EsperNormal.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperNormal-300x200.png"></a><a href="{{ site.baseurl }}public/images/portfolio/EsperSpirit.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperSpirit-300x200.png"></a><br />
-<a href="{{ site.baseurl }}public/images/portfolio/EsperInventory.png""><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperInventory-300x200.png"></a><a href="{{ site.baseurl }}public/images/portfolio/EsperSeal.png"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperSeal-300x200.png"></a><br />
+<a href="{{ site.baseurl }}public/images/portfolio/EsperInventory.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperInventory-300x200.png"></a><a href="{{ site.baseurl }}public/images/portfolio/EsperSeal.png"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperSeal-300x200.png"></a><br />
   
 #### <a name="swat">SWAT Commando  
 #### <a name="largos">Largos  
 #### <a name="quaggan">Quaggan  
 #### <a name="harpy">Harpy  
-#### <a name="gwtwo">ssorted Guildwars 2 Armors  
+#### <a name="gwtwo">Assorted Guildwars 2 Armors  
 #### <a name="cartoony">Cartoony Guard  
 #### <a name="gw_a">Assorted Guildwars 1 Creatures  
 #### <a name="gw_b">Assorted Guildwars 1 Armor Concepts  
