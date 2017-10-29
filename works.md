@@ -67,7 +67,7 @@ I did the design, programming and the 3D underwater level.
 This game is done together with Anicombo Team, Hai Phan, Donald Phan, Delly Sartika, Pavidcha Win Arayaphong and Chrissy Vu for the music.
 
 *Trailer:*  <br />
-[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/itemania_game_01.jpg](http://youtu.be/sJfzSu0sHS0)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/itemania_game_01.jpg)](http://youtu.be/sJfzSu0sHS0)
 
 *Gameplay:*  <br />
 [![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/itemania_game_02.jpg)](http://youtu.be/2TcfKtFb52M)
