@@ -16,5 +16,7 @@ I’m a *Technical Artist* at *ArenaNet* and a hobbyist game developer.
 **You can reach me at:**
 
 *sartikadelly@gmail.com*
-[![]({{ site.baseurl }}public/images/icons/linkedin.png)](https://www.linkedin.com/in/sartikadelly/)
+<br /><br />
 [![]({{ site.baseurl }}public/images/icons/github.png)](https://github.com/sartikadelly)
+<br />
+[![]({{ site.baseurl }}public/images/icons/linkedin.png)](https://www.linkedin.com/in/sartikadelly/)
