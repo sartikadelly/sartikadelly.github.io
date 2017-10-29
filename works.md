@@ -93,8 +93,8 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 <a href="{{ site.baseurl }}public/images/portfolio/CommandoHires.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoHires-300x169.jpg"></a>
 
 *Low Res:* <br />
-<a href="{{ site.baseurl }}public/images/portfolio/CommandoGray.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoGray-300x176.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/CommandoGreen.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoGreen-300x139.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/CommandoGray.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoGray-300x176.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/CommandoGreen.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoGreen-300x139.jpg"></a>  
 <a href="{{ site.baseurl }}public/images/portfolio/CommandoArctic.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoArctic-300x136.jpg"></a>
 
 #### <a name="largos"></a>Largos  
