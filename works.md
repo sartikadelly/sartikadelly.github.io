@@ -55,51 +55,51 @@ Maclaine Diemer did the music, Matthew Oswald & Taylor helps me with the title s
 <http://www.youtube.com/results?search_query=rytlock+critter&oq=rytlock+critter>
 
 *100% Playthrough on Rytlock mode by MattVisual :* <br />
-[![](http://i.ytimg.com/vi/gwuMyU_nJcU/hqdefault.jpg)](http://www.youtube.com/embed/gwuMyU_nJcU)
+[![](http://i.ytimg.com/vi/gwuMyU_nJcU/hqdefault.jpg)](http://www.youtube.com/gwuMyU_nJcU)
 
 *Another playthrough by Dontain :*  <br />
-[![](http://i.ytimg.com/vi/WJj4KohKt00/hqdefault.jpg)](http://www.youtube.com/embed/WJj4KohKt00)
+[![](http://i.ytimg.com/vi/WJj4KohKt00/hqdefault.jpg)](http://www.youtube.com/WJj4KohKt00)
 
-### <a name="itemania">Itemania (iOS – Unity)
+#### <a name="itemania">Itemania (iOS – Unity)
 A 3D Hidden Object Game, using Unity Engine.  
 Already offline from Itune Store but I might put it back in the Itunes someday in the near future.  
 I did the design, programming and the 3D underwater level.  
 This game is done together with Anicombo Team, Hai Phan, Donald Phan, Delly Sartika, Pavidcha Win Arayaphong and Chrissy Vu for the music.
 
 *Trailer:*  <br />
-[![](http://i.ytimg.com/vi/sJfzSu0sHS0/hqdefault.jpg)](http://www.youtube.com/embed/sJfzSu0sHS0)
+[![](http://i.ytimg.com/vi/sJfzSu0sHS0/hqdefault.jpg)](http://www.youtube.com/sJfzSu0sHS0)
 
 *Gameplay:*  <br />
-[![](http://i.ytimg.com/vi/2TcfKtFb52M/hqdefault.jpg)](http://www.youtube.com/embed/2TcfKtFb52M)
+[![](http://i.ytimg.com/vi/2TcfKtFb52M/hqdefault.jpg)](http://www.youtube.com/2TcfKtFb52M)
 
 *Screenshots:* <br />
 <a href="{{ site.baseurl }}public/images/portfolio/MainMenu.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/MainMenu-300x200.jpg"></a><a href="{{ site.baseurl }}public/images/portfolio/LevelSelect.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LevelSelect-300x200.jpg"></a><br />
 <a href="{{ site.baseurl }}public/images/portfolio/Lv05.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Lv05-300x200.jpg"></a><a href="{{ site.baseurl }}public/images/portfolio/Lv07.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Lv07-300x200.jpg"></a><br />
 
-### <a name="esper">Esper Quest (iOS – Unity)
+#### <a name="esper">Esper Quest (iOS – Unity)
 A point and click game using Unity engine, I put this project on hold because the scope of the project grow bigger than what I can manage. I did the design & programming and Pavidcha Arayaphong did the illustration. Below are some WIP test screenshots & gameplay video.
   
 *Gameplay:* <br />
   
-### <a name="swat">SWAT Commando  
-### <a name="largos">Largos  
-### <a name="quaggan">Quaggan  
-### <a name="harpy">Harpy  
-### <a name="gwtwo">ssorted Guildwars 2 Armors  
-### <a name="cartoony">Cartoony Guard  
-### <a name="gw_a">Assorted Guildwars 1 Creatures  
-### <a name="gw_b">Assorted Guildwars 1 Armor Concepts  
-### <a name="gw_c">Assorted Guildwars 1 Armors
+#### <a name="swat">SWAT Commando  
+#### <a name="largos">Largos  
+#### <a name="quaggan">Quaggan  
+#### <a name="harpy">Harpy  
+#### <a name="gwtwo">ssorted Guildwars 2 Armors  
+#### <a name="cartoony">Cartoony Guard  
+#### <a name="gw_a">Assorted Guildwars 1 Creatures  
+#### <a name="gw_b">Assorted Guildwars 1 Armor Concepts  
+#### <a name="gw_c">Assorted Guildwars 1 Armors
   
-### <a name="cin_a">GuildWars 2 Cinematics Finale Part 1  
-### <a name="cin_b">GuildWars 2 Cinematics Finale Part 2  
-### <a name="cin_c">GuildWars 2 Cinematic Shaman Dungeon  
-### <a name="cin_d">GuildWars 2 Cinematics Order Vigil  
-### <a name="cin_e">GuildWars 2 Cinematic Order Of Whispers  
-### <a name="cin_f">GuildWars 2 Cinematics Norn Strength  
-### <a name="cin_g">GuildWars 2 Cinematic Sylvari Moon  
-### <a name="cin_h">GuildWars 2 Cinematics Human Common  
-### <a name="cin_i">GuildWars 2 Cinematics Furnace  
-### <a name="cin_j">GuildWars 2 Cinematics Dragon  
-### <a name="cin_k">GuildWars 2 Cinematics Charr Blood  
-### <a name="cin_l">GuildWars 2 Cinematic Iceberg
+#### <a name="cin_a">GuildWars 2 Cinematics Finale Part 1  
+#### <a name="cin_b">GuildWars 2 Cinematics Finale Part 2  
+#### <a name="cin_c">GuildWars 2 Cinematic Shaman Dungeon  
+#### <a name="cin_d">GuildWars 2 Cinematics Order Vigil  
+#### <a name="cin_e">GuildWars 2 Cinematic Order Of Whispers  
+#### <a name="cin_f">GuildWars 2 Cinematics Norn Strength  
+#### <a name="cin_g">GuildWars 2 Cinematic Sylvari Moon  
+#### <a name="cin_h">GuildWars 2 Cinematics Human Common  
+#### <a name="cin_i">GuildWars 2 Cinematics Furnace  
+#### <a name="cin_j">GuildWars 2 Cinematics Dragon  
+#### <a name="cin_k">GuildWars 2 Cinematics Charr Blood  
+#### <a name="cin_l">GuildWars 2 Cinematic Iceberg
