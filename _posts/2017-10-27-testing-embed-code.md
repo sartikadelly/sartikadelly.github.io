@@ -20,6 +20,6 @@ pm.sets(shadingGrp, forceElement=pm.selected())
 ```
 
 Embed Gist test:<br>
-Maya python script for doing cube reset on selected object
+*Maya python script for doing cube reset on selected object*
 
 {% gist 3a2f1f07ef795074781a191fd4e4e224 %}
