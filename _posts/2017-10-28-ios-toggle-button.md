@@ -43,14 +43,14 @@ import toggle_button
 widget = toggle_button.ToggleButton()
 widget.show()
 ```
-![alt text](https://github.com/sartikadelly/ios-togglebutton-for-maya/blob/master/screenshots/toggle_example_01.png "Toggle Button Example 01")
+![(https://github.com/sartikadelly/ios-togglebutton-for-maya/blob/master/screenshots/toggle_example_01.png)]
 
 ```python
 import toggle_button
 widget = toggle_button.ToggleButton(width=100, colorActive=toggle_button.RED)
 widget.show()
 ```
-![alt text](https://github.com/sartikadelly/ios-togglebutton-for-maya/blob/master/screenshots/toggle_example_02.png "Toggle Button Example 02")
+![(https://github.com/sartikadelly/ios-togglebutton-for-maya/blob/master/screenshots/toggle_example_02.png)]
 
 ```python
 import toggle_button
