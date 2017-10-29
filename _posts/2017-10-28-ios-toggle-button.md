@@ -45,7 +45,7 @@ class ToggleButton(parent=None,
     <tr>
       <td>int</td>
       <td>height</td>
-      <td>Height, default to (width * 0.5) if not provided.<br>Default to 32 if both *width & height is not provided*.</td>
+      <td>Height, default to (width * 0.5) if not provided.<br>Default to 32 if both <i>width & height is not provided.</i></td>
     </tr>
     <tr>
       <td>QColor</td>
@@ -105,7 +105,8 @@ widget.show()
 
 ```python
 import toggle_button
-widget = toggle_button.ToggleButton(height=20, colorActive=toggle_button.QtGui.QColor('#8BC34A'),
+widget = toggle_button.ToggleButton(height=20,
+  colorActive=toggle_button.QtGui.QColor('#8BC34A'),
   colorInactive=toggle_button.QtGui.QColor('#FF9800'))
 widget.show()
 ```
