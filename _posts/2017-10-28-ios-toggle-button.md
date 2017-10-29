@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding Maya iOS Style Toggle Button on repo
+title: Adding Maya iOS Style Toggle Button to repo
 ---
 
 Link to repo:
