@@ -9,7 +9,7 @@ Link to repo:
 Here's a class for making iOS Style toggle button for Maya (2014 and beyond) using Python.
 It's fully customizeable too.
 
-## Class
+### Class
 Inherited from *QtWidgets.QWidget*
 ```python
 class ToggleButton(QtWidgets.QWidget)
@@ -22,7 +22,7 @@ class ToggleButton(parent=None,
                    roundedCorner = True)
 ```                 
 
-### Parameters
+#### Parameters
 <table>
   <thead>
     <tr>
@@ -70,7 +70,7 @@ class ToggleButton(parent=None,
   </tbody>
 </table>  
 
-### Properties
+#### Properties
 <table>
   <thead>
     <tr>
@@ -86,7 +86,7 @@ class ToggleButton(parent=None,
     </tr>   
 </table>  
 
-## Example Usage
+### Example Usage
 ```python
 import toggle_button
 
