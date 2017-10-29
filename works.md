@@ -174,6 +174,23 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 <a href="{{ site.baseurl }}public/images/portfolio/GW-Nightfall.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/GW-Nightfall-300x187.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/GW-Nightfall1.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/GW-Nightfall1-300x187.jpg"></a>
 
+#### Guildwars 2 Cinematics
+Most of these cinematics are the combined effort from ArenaNet Cinematic Team.  
+It’s hard to pinpoint which shot that is solely my own work, because we tweak and polish each other works to the point that it could be 2-3 of us working on the same shot.
+
+ArenaNet Cinematic Team at the time these cinematics are being made:  
+Horia Dociu / Matthew Oswald (Cinematic Lead)  
+Neal Hanson, Richard Anderson (Concept Art)  
+John McIntosh  
+Matthew Olch  
+Marissa Erven  
+Sean Streeter  
+Vicki Ebbert  
+Delly Sartika  
+
+The cinematic is done using in-house tool and running real time on Guildwars 2 engine.  
+There is no pre-rendered shot, everything is running real time in the game, we have to rely on in-game asset to achieve the specific look we want, hopefully that explain why there is no fancy transition / crazy pre-rendered particle FX etc.
+
 #### <a name="cin_a"></a>GuildWars 2 Cinematics Finale Part 1
 [![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_finale_01.jpg)](http://youtu.be/CPL2ZfbgNNw)
 
