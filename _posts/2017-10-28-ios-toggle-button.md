@@ -20,20 +20,68 @@ class ToggleButton(parent=None,
 ```                 
 
 ### Parameters
-Type | Flag | Description
---- | --- | ---
-QWidget | parent | Parent widget
-int | width | Width, default to (height * 2) if not provided
-int | height | Height, default to (width * 0.5) if not provided.<br>Default to 32 if both *width & height is not provided*.
-QColor | colorSwitch | Switch color.
-QColor | colorActive | Background color when Toggle Button is active.
-QColor | colorInctive | Background color when Toggle Button is inactive.
-bool | roundedCorner | Rounded / Square corner style.
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Flag</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>QWidget</td>
+      <td>parent</td>
+      <td>Parent widget</td>
+    </tr>
+    <tr>
+      <td>int</td>
+      <td>width</td>
+      <td>Width, default to (height * 2) if not provided</td>
+    </tr>
+    <tr>
+      <td>int</td>
+      <td>height</td>
+      <td>Height, default to (width * 0.5) if not provided.<br>Default to 32 if both *width & height is not provided*.</td>
+    </tr>
+    <tr>
+      <td>QColor</td>
+      <td>colorSwitch</td>
+      <td>Switch color.</td>
+    </tr>
+    <tr>
+      <td>QColor</td>
+      <td>colorActive</td>
+      <td>Background color when Toggle Button is active.</td>
+    </tr>    
+    <tr>
+      <td>QColor</td>
+      <td>colorInctive</td>
+      <td>Background color when Toggle Button is inactive.</td>
+    </tr>      
+    <tr>
+      <td>bool</td>
+      <td>roundedCorner</td>
+      <td>Rounded / Square corner style.</td>
+    </tr>     
+  </tbody>
+</table>  
 
 ### Properties
-Type | Name | Description
---- | --- | ---
-bool | state | Toggle button state
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>  
+    <tr>
+      <td>bool</td>
+      <td>state</td>
+      <td>Toggle button state</td>
+    </tr>   
+</table>  
 
 ## Example Usage
 ```python
@@ -43,22 +91,22 @@ import toggle_button
 widget = toggle_button.ToggleButton()
 widget.show()
 ```
-![](https://github.com/sartikadelly/ios-togglebutton-for-maya/blob/master/screenshots/toggle_example_01.png)
+![](https://raw.githubusercontent.com/sartikadelly/ios-togglebutton-for-maya/master/screenshots/toggle_example_01.png)
 
 ```python
 import toggle_button
 widget = toggle_button.ToggleButton(width=100, colorActive=toggle_button.RED)
 widget.show()
 ```
-![](https://github.com/sartikadelly/ios-togglebutton-for-maya/blob/master/screenshots/toggle_example_02.png)
+![](https://raw.githubusercontent.com/sartikadelly/ios-togglebutton-for-maya/master/screenshots/toggle_example_02.png)
 
 ```python
 import toggle_button
-widget = toggle_button.ToggleButton(height=20, colorActive=toggle_button.QtGui.QColor('#8BC34A'), 
-                                    colorInactive=toggle_button.QtGui.QColor('#FF9800'))
+widget = toggle_button.ToggleButton(height=20, colorActive=toggle_button.QtGui.QColor('#8BC34A'),
+  colorInactive=toggle_button.QtGui.QColor('#FF9800'))
 widget.show()
 ```
-<img src="https://github.com/sartikadelly/ios-togglebutton-for-maya/blob/master/screenshots/toggle_example_03.png">
+<img src="https://raw.githubusercontent.com/sartikadelly/ios-togglebutton-for-maya/master/screenshots/toggle_example_03.png">
 
 ```python
 import toggle_button
@@ -70,7 +118,7 @@ widget = toggle_button.ToggleButton(width=100, height=40,
   roundedCorner=False)
 widget.show()
 ```
-![alt text](https://github.com/sartikadelly/ios-togglebutton-for-maya/blob/master/screenshots/toggle_example_04.png "Toggle Button Example 04")
+<img src="https://raw.githubusercontent.com/sartikadelly/ios-togglebutton-for-maya/master/screenshots/toggle_example_04.png">
 
 
 
