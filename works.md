@@ -175,14 +175,37 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 <a href="{{ site.baseurl }}public/images/portfolio/GW-Nightfall1.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/GW-Nightfall1-300x187.jpg"></a>
 
 #### <a name="cin_a"></a>GuildWars 2 Cinematics Finale Part 1
-#### <a name="cin_b"></a>GuildWars 2 Cinematics Finale Part 2  
-#### <a name="cin_c"></a>GuildWars 2 Cinematic Shaman Dungeon  
-#### <a name="cin_d"></a>GuildWars 2 Cinematics Order Vigil  
-#### <a name="cin_e"></a>GuildWars 2 Cinematic Order Of Whispers  
-#### <a name="cin_f"></a>GuildWars 2 Cinematics Norn Strength  
-#### <a name="cin_g"></a>GuildWars 2 Cinematic Sylvari Moon  
-#### <a name="cin_h"></a>GuildWars 2 Cinematics Human Common  
-#### <a name="cin_i"></a>GuildWars 2 Cinematics Furnace  
-#### <a name="cin_j"></a>GuildWars 2 Cinematics Dragon  
-#### <a name="cin_k"></a>GuildWars 2 Cinematics Charr Blood  
+[![](http://i.ytimg.com/vi/CPL2ZfbgNNw/hqdefault.jpg)](http://youtu.be/CPL2ZfbgNNw)
+
+#### <a name="cin_b"></a>GuildWars 2 Cinematics Finale Part 2
+[![](http://i.ytimg.com/vi/aJUIqQonTaI/hqdefault.jpg)](http://youtu.be/aJUIqQonTaI)
+
+#### <a name="cin_c"></a>GuildWars 2 Cinematic Shaman Dungeon
+[![](http://i.ytimg.com/vi/NhhLOZlPqyI/hqdefault.jpg)](http://youtu.be/NhhLOZlPqyI)
+
+#### <a name="cin_d"></a>GuildWars 2 Cinematics Order Vigil
+[![](http://i.ytimg.com/vi/X3MAgTjYT9I/hqdefault.jpg)](http://youtu.be/X3MAgTjYT9I)
+
+#### <a name="cin_e"></a>GuildWars 2 Cinematic Order Of Whispers
+[![](http://i.ytimg.com/vi/bKjfOL2uNbE/hqdefault.jpg)](http://youtu.be/bKjfOL2uNbE)
+
+#### <a name="cin_f"></a>GuildWars 2 Cinematics Norn Strength
+[![](http://i.ytimg.com/vi/CtujqmIG0bQ/hqdefault.jpg)](http://youtu.be/CtujqmIG0bQ)
+
+#### <a name="cin_g"></a>GuildWars 2 Cinematic Sylvari Moon
+[![](http://i.ytimg.com/vi/4ntW3Bpyj84/hqdefault.jpg)](http://youtu.be/4ntW3Bpyj84)
+
+#### <a name="cin_h"></a>GuildWars 2 Cinematics Human Common
+[![](http://i.ytimg.com/vi/lB4ept5VKcM/hqdefault.jpg)](http://youtu.be/lB4ept5VKcM)
+
+#### <a name="cin_i"></a>GuildWars 2 Cinematics Furnace
+[![](http://i.ytimg.com/vi/2BhfpU74YSM/hqdefault.jpg)](http://youtu.be/2BhfpU74YSM)
+
+#### <a name="cin_j"></a>GuildWars 2 Cinematics Dragon
+[![](http://i.ytimg.com/vi/7Cbd7dMvVuw/hqdefault.jpg)](http://youtu.be/7Cbd7dMvVuw)
+
+#### <a name="cin_k"></a>GuildWars 2 Cinematics Charr Blood
+[![](http://i.ytimg.com/vi/WlQfAMrSQfA/hqdefault.jpg)](http://youtu.be/WlQfAMrSQfA)
+
 #### <a name="cin_l"></a>GuildWars 2 Cinematic Iceberg
+[![](http://i.ytimg.com/vi/B2ZkPVML4Oo/hqdefault.jpg)](http://youtu.be/B2ZkPVML4Oo)
