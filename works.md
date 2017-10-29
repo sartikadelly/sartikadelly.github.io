@@ -108,25 +108,25 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 
 #### <a name="harpy"></a>Harpy
 <a href="{{ site.baseurl }}public/images/portfolio/HarpyMatriarch.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/HarpyMatriarch-300x286.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/Harpy_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Harpy_02-300x279.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/Harpy_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Harpy_02-300x279.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/Harpy_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Harpy_03-300x206.jpg"></a>
 
 #### <a name="gwtwo"></a>Assorted Guildwars 2 Armors
 <a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorFemale_01.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorFemale_01-223x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorFemale_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorFemale_02-223x300.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorFemale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorFemale_03-168x300.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorFemale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorFemale_03-168x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/LeatherArmorFemale_01.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LeatherArmorFemale_01-165x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/LeatherArmorFemale_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LeatherArmorFemale_02-164x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/LeatherArmorFemale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LeatherArmorFemale_03-159x300.jpg"></a>  
 <a href="{{ site.baseurl }}public/images/portfolio/WingsArmorFemale_01.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorFemale_01-136x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/WingsArmorFemale_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorFemale_02-148x300.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/WingsArmorFemale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorFemale_03-148x300.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/WingsArmorFemale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorFemale_03-148x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorMale_01.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorMale_01-187x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorMale_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorMale_02-192x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorMale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorMale_03-192x300.jpg"></a>  
 <a href="{{ site.baseurl }}public/images/portfolio/LeatherArmorMale_01.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LeatherArmorMale_01-192x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/LeatherArmorMale_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LeatherArmorMale_02-192x300.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/LeatherArmorMale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LeatherArmorMale_03-167x300.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/LeatherArmorMale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LeatherArmorMale_03-167x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/WingsArmorMale_01.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorMale_01-160x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/WingsArmorMale_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorMale_02-159x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/WingsArmorMale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorMale_03-159x300.jpg"></a>  
@@ -139,7 +139,7 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 <a href="{{ site.baseurl }}public/images/portfolio/HelmetStudded.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/HelmetStudded-232x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/HelmetThread.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/HelmetThread-261x300.jpg"></a>  
 <a href="{{ site.baseurl }}public/images/portfolio/LightAcolyteFemale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LightAcolyteFemale-300x274.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/LightAcolyteMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LightAcolyteMale-300x283.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/LightAcolyteMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LightAcolyteMale-300x283.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/VampiricArmor.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/VampiricArmor-288x300.jpg"></a>
 
 #### <a name="cartoony"></a>Cartoony Guard
@@ -147,7 +147,7 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 
 #### <a name="gw_a"></a>Assorted Guildwars 1 Creatures
 <a href="{{ site.baseurl }}public/images/portfolio/CharrBigHat.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CharrBigHat-213x300.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/Mauler.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Mauler-200x300.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/Mauler.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Mauler-200x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/HeroesPyre.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/HeroesPyre-250x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/BurrowerBeetle.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/BurrowerBeetle-300x163.jpg"></a>  
 <a href="{{ site.baseurl }}public/images/portfolio/GwenChibi.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/GwenChibi-172x300.jpg"></a>
@@ -155,12 +155,12 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 
 #### <a name="gw_b"></a>Assorted Guildwars 1 Armor Concepts
 <a href="{{ site.baseurl }}public/images/portfolio/ArmourDarkAzuraFemale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ArmourDarkAzuraFemale-136x300.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/ArmourDarkAzuraMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ArmourDarkAzuraMale-163x300.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/ArmourDarkAzuraMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ArmourDarkAzuraMale-163x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/AssassinFemaleUniqueItems.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/AssassinFemaleUniqueItems-213x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/AssassinMaleUniqueItems.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/AssassinMaleUniqueItems-168x300.jpg"></a>  
-<a href="{{ site.baseurl }}public/images/portfolio/MesmerCustomMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/MesmerCustomMale-300x282.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/MesmerCustomMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/MesmerCustomMale-300x282.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/RangerAzuraFemale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/RangerAzuraFemale-154x300.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/RangerAzuraMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/RangerAzuraMale-174x300.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/RangerAzuraMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/RangerAzuraMale-174x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/RangerCustomFemale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/RangerCustomFemale-169x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/RangerCustomMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/RangerCustomMale-160x300.jpg"></a>  
 
