@@ -45,17 +45,17 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
@@ -112,7 +112,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  font-size: 0.5rem;
+  font-size: 0.875rem;
 }
 
 strong {
@@ -220,9 +220,9 @@ blockquote p:last-child {
 }
 
 img {
-  display: block;
+  display: inline;
   max-width: 100%;
-  margin: 0 0 1rem;
+  margin: 0 0 0rem;
   border-radius: 5px;
 }
 
