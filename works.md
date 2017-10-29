@@ -97,16 +97,28 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 <a href="{{ site.baseurl }}public/images/portfolio/CommandoGreen.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoGreen-300x139.jpg"></a>  
 <a href="{{ site.baseurl }}public/images/portfolio/CommandoArctic.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoArctic-300x136.jpg"></a>
 
-#### <a name="largos"></a>Largos  
-#### <a name="quaggan"></a>Quaggan  
-#### <a name="harpy"></a>Harpy  
-#### <a name="gwtwo"></a>Assorted Guildwars 2 Armors  
-#### <a name="cartoony"></a>Cartoony Guard  
-#### <a name="gw_a"></a>Assorted Guildwars 1 Creatures  
-#### <a name="gw_b"></a>Assorted Guildwars 1 Armor Concepts  
+*Trailer:*  <br />
+[![](http://i.ytimg.com/vi/m1tv9VpnwmY/hqdefault.jpg)](http://youtu.be/m1tv9VpnwmY)
+
+#### <a name="largos"></a>Largos
+<a href="{{ site.baseurl }}public/images/portfolio/LargosHunter.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LargosHunter-300x137.jpg"></a> 
+
+#### <a name="quaggan"></a>Quaggan
+
+#### <a name="harpy"></a>Harpy
+
+#### <a name="gwtwo"></a>Assorted Guildwars 2 Armors
+
+#### <a name="cartoony"></a>Cartoony Guard
+
+#### <a name="gw_a"></a>Assorted Guildwars 1 Creatures
+
+#### <a name="gw_b"></a>Assorted Guildwars 1 Armor Concepts
+
 #### <a name="gw_c"></a>Assorted Guildwars 1 Armors
   
-#### <a name="cin_a"></a>GuildWars 2 Cinematics Finale Part 1  
+#### <a name="cin_a"></a>GuildWars 2 Cinematics Finale Part 1
+
 #### <a name="cin_b"></a>GuildWars 2 Cinematics Finale Part 2  
 #### <a name="cin_c"></a>GuildWars 2 Cinematic Shaman Dungeon  
 #### <a name="cin_d"></a>GuildWars 2 Cinematics Order Vigil  
