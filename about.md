@@ -9,7 +9,7 @@ I’m a *Technical Artist* at *ArenaNet* and a hobbyist game developer.
 
 **Work Experience** :
 
-* Technical Artist, October 2016 – Present
-* Cinematic Artist, 2011 – October 2016 (Guildwars 2).
-* Character Artist, 2004 – 2010 (Guildwars, Factions, Nightfall, Eye Of The North & Guildwars 2)
+* Technical Artist, 2016 – Present (Guildwars 2, GW2: Living World, GW2: Heart of Thorns, GW2: Path of Fire)
+* Cinematic Artist, 2011 – 2015 (Guildwars 2).
+* Character Artist, 2004 – 2010 (Guildwars, Factions, Nightfall, Eye Of The North, Guildwars 2)
 
