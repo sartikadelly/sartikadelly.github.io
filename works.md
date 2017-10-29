@@ -60,7 +60,7 @@ Maclaine Diemer did the music, Matthew Oswald & Taylor helps me with the title s
 *Another playthrough by Dontain :*  <br />
 [![](http://i.ytimg.com/vi/WJj4KohKt00/hqdefault.jpg)](http://youtu.be/WJj4KohKt00)
 
-#### <a name="itemania">Itemania (iOS – Unity)
+#### <a name="itemania"></a>Itemania (iOS – Unity)
 A 3D Hidden Object Game, using Unity Engine.  
 Already offline from Itune Store but I might put it back in the Itunes someday in the near future.  
 I did the design, programming and the 3D underwater level.  
@@ -76,7 +76,7 @@ This game is done together with Anicombo Team, Hai Phan, Donald Phan, Delly Sart
 <a href="{{ site.baseurl }}public/images/portfolio/MainMenu.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/MainMenu-300x200.jpg"></a><a href="{{ site.baseurl }}public/images/portfolio/LevelSelect.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LevelSelect-300x200.jpg"></a><br />
 <a href="{{ site.baseurl }}public/images/portfolio/Lv05.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Lv05-300x200.jpg"></a><a href="{{ site.baseurl }}public/images/portfolio/Lv07.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Lv07-300x200.jpg"></a><br />
 
-#### <a name="esper">Esper Quest (iOS – Unity)
+#### <a name="esper"></a>Esper Quest (iOS – Unity)
 A point and click game using Unity engine, I put this project on hold because the scope of the project grow bigger than what I can manage. I did the design & programming and Pavidcha Arayaphong did the illustration. Below are some WIP test screenshots & gameplay video.
   
 *Gameplay:* <br />
@@ -111,8 +111,16 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 <a href="{{ site.baseurl }}public/images/portfolio/Harpy_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Harpy_02-300x279.jpg"></a>  
 <a href="{{ site.baseurl }}public/images/portfolio/Harpy_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Harpy_03-300x206.jpg"></a>
 
-
 #### <a name="gwtwo"></a>Assorted Guildwars 2 Armors
+<a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorFemale_01.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorFemale_01-223x300.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorFemale_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorFemale_02-223x300.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorFemale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorFemale_03-168x300.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/LeatherArmorFemale_01.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LeatherArmorFemale_01-165x300.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/LeatherArmorFemale_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LeatherArmorFemale_02-164x300.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/LeatherArmorFemale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LeatherArmorFemale_03-159x300.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/WingsArmorFemale_01.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorFemale_01-136x300.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/WingsArmorFemale_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorFemale_02-148x300.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/WingsArmorFemale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorFemale_03-148x300.jpg"></a>  
 
 #### <a name="cartoony"></a>Cartoony Guard
 
