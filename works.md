@@ -55,10 +55,10 @@ Maclaine Diemer did the music, Matthew Oswald & Taylor helps me with the title s
 <http://www.youtube.com/results?search_query=rytlock+critter&oq=rytlock+critter>
 
 *100% Playthrough on Rytlock mode by MattVisual :* <br />
-[![](http://i.ytimg.com/vi/gwuMyU_nJcU/hqdefault.jpg)](http://youtu.be/gwuMyU_nJcU)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/rytlock_game_01.jpg)](http://youtu.be/gwuMyU_nJcU)
 
 *Another playthrough by Dontain :*  <br />
-[![](http://i.ytimg.com/vi/WJj4KohKt00/hqdefault.jpg)](http://youtu.be/WJj4KohKt00)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/rytlock_game_02.jpg)](http://youtu.be/WJj4KohKt00)
 
 #### <a name="itemania"></a>Itemania (iOS – Unity)
 A 3D Hidden Object Game, using Unity Engine.  
@@ -67,10 +67,10 @@ I did the design, programming and the 3D underwater level.
 This game is done together with Anicombo Team, Hai Phan, Donald Phan, Delly Sartika, Pavidcha Win Arayaphong and Chrissy Vu for the music.
 
 *Trailer:*  <br />
-[![](http://i.ytimg.com/vi/sJfzSu0sHS0/hqdefault.jpg)](http://youtu.be/sJfzSu0sHS0)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/itemania_game_01.jpg](http://youtu.be/sJfzSu0sHS0)
 
 *Gameplay:*  <br />
-[![](http://i.ytimg.com/vi/2TcfKtFb52M/hqdefault.jpg)](http://youtu.be/2TcfKtFb52M)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/itemania_game_02.jpg)](http://youtu.be/2TcfKtFb52M)
 
 *Screenshots:* <br />
 <a href="{{ site.baseurl }}public/images/portfolio/MainMenu.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/MainMenu-300x200.jpg"></a><a href="{{ site.baseurl }}public/images/portfolio/LevelSelect.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LevelSelect-300x200.jpg"></a><br />
@@ -80,7 +80,7 @@ This game is done together with Anicombo Team, Hai Phan, Donald Phan, Delly Sart
 A point and click game using Unity engine, I put this project on hold because the scope of the project grow bigger than what I can manage. I did the design & programming and Pavidcha Arayaphong did the illustration. Below are some WIP test screenshots & gameplay video.
   
 *Gameplay:* <br />
-[![](http://i.ytimg.com/vi/yEWvlgO0F9E/hqdefault.jpg)](http://youtu.be/yEWvlgO0F9E)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/esper_game.jpg)](http://youtu.be/yEWvlgO0F9E)
 
 *Screenshots:* <br />
 <a href="{{ site.baseurl }}public/images/portfolio/EsperNormal.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperNormal-300x200.png"></a><a href="{{ site.baseurl }}public/images/portfolio/EsperSpirit.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperSpirit-300x200.png"></a><br />
@@ -98,7 +98,7 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 <a href="{{ site.baseurl }}public/images/portfolio/CommandoArctic.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoArctic-300x136.jpg"></a>
 
 *Trailer:*  <br />
-[![](http://i.ytimg.com/vi/m1tv9VpnwmY/hqdefault.jpg)](http://youtu.be/m1tv9VpnwmY)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/swat.jpg)](http://youtu.be/m1tv9VpnwmY)
 
 #### <a name="largos"></a>Largos
 <a href="{{ site.baseurl }}public/images/portfolio/LargosHunter.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LargosHunter-300x137.jpg"></a> 
@@ -175,37 +175,37 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 <a href="{{ site.baseurl }}public/images/portfolio/GW-Nightfall1.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/GW-Nightfall1-300x187.jpg"></a>
 
 #### <a name="cin_a"></a>GuildWars 2 Cinematics Finale Part 1
-[![](http://i.ytimg.com/vi/CPL2ZfbgNNw/hqdefault.jpg)](http://youtu.be/CPL2ZfbgNNw)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_finale_01.jpg)](http://youtu.be/CPL2ZfbgNNw)
 
 #### <a name="cin_b"></a>GuildWars 2 Cinematics Finale Part 2
-[![](http://i.ytimg.com/vi/aJUIqQonTaI/hqdefault.jpg)](http://youtu.be/aJUIqQonTaI)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_finale_02.jpg)](http://youtu.be/aJUIqQonTaI)
 
 #### <a name="cin_c"></a>GuildWars 2 Cinematic Shaman Dungeon
-[![](http://i.ytimg.com/vi/NhhLOZlPqyI/hqdefault.jpg)](http://youtu.be/NhhLOZlPqyI)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_shaman.jpg)](http://youtu.be/NhhLOZlPqyI)
 
 #### <a name="cin_d"></a>GuildWars 2 Cinematics Order Vigil
-[![](http://i.ytimg.com/vi/X3MAgTjYT9I/hqdefault.jpg)](http://youtu.be/X3MAgTjYT9I)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_vigil.jpg)](http://youtu.be/X3MAgTjYT9I)
 
 #### <a name="cin_e"></a>GuildWars 2 Cinematic Order Of Whispers
-[![](http://i.ytimg.com/vi/bKjfOL2uNbE/hqdefault.jpg)](http://youtu.be/bKjfOL2uNbE)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_whisper.jpg)](http://youtu.be/bKjfOL2uNbE)
 
 #### <a name="cin_f"></a>GuildWars 2 Cinematics Norn Strength
-[![](http://i.ytimg.com/vi/CtujqmIG0bQ/hqdefault.jpg)](http://youtu.be/CtujqmIG0bQ)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_norn.jpg)](http://youtu.be/CtujqmIG0bQ)
 
 #### <a name="cin_g"></a>GuildWars 2 Cinematic Sylvari Moon
-[![](http://i.ytimg.com/vi/4ntW3Bpyj84/hqdefault.jpg)](http://youtu.be/4ntW3Bpyj84)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_sylvari.jpg)](http://youtu.be/4ntW3Bpyj84)
 
 #### <a name="cin_h"></a>GuildWars 2 Cinematics Human Common
-[![](http://i.ytimg.com/vi/lB4ept5VKcM/hqdefault.jpg)](http://youtu.be/lB4ept5VKcM)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_human.jpg)](http://youtu.be/lB4ept5VKcM)
 
 #### <a name="cin_i"></a>GuildWars 2 Cinematics Furnace
-[![](http://i.ytimg.com/vi/2BhfpU74YSM/hqdefault.jpg)](http://youtu.be/2BhfpU74YSM)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_furnace.jpg)](http://youtu.be/2BhfpU74YSM)
 
 #### <a name="cin_j"></a>GuildWars 2 Cinematics Dragon
-[![](http://i.ytimg.com/vi/7Cbd7dMvVuw/hqdefault.jpg)](http://youtu.be/7Cbd7dMvVuw)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_dragon.jpg)](http://youtu.be/7Cbd7dMvVuw)
 
 #### <a name="cin_k"></a>GuildWars 2 Cinematics Charr Blood
-[![](http://i.ytimg.com/vi/WlQfAMrSQfA/hqdefault.jpg)](http://youtu.be/WlQfAMrSQfA)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_charr.jpg)](http://youtu.be/WlQfAMrSQfA)
 
 #### <a name="cin_l"></a>GuildWars 2 Cinematic Iceberg
-[![](http://i.ytimg.com/vi/B2ZkPVML4Oo/hqdefault.jpg)](http://youtu.be/B2ZkPVML4Oo)
+[![]({{ site.baseurl }}public/images/portfolio/youtube_thumbnails/cin_iceberg.jpg)](http://youtu.be/B2ZkPVML4Oo)
