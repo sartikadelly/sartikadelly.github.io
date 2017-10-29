@@ -120,7 +120,7 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 <a href="{{ site.baseurl }}public/images/portfolio/LeatherArmorFemale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LeatherArmorFemale_03-159x300.jpg"></a>  
 <a href="{{ site.baseurl }}public/images/portfolio/WingsArmorFemale_01.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorFemale_01-136x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/WingsArmorFemale_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorFemale_02-148x300.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/WingsArmorFemale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorFemale_03-148x300.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/WingsArmorFemale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/WingsArmorFemale_03-148x300.jpg"></a>  
 <a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorMale_01.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorMale_01-187x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorMale_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorMale_02-192x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/ShinyLeatherArmorMale_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShinyLeatherArmorMale_03-192x300.jpg"></a>  
