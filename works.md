@@ -104,8 +104,13 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 <a href="{{ site.baseurl }}public/images/portfolio/LargosHunter.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LargosHunter-300x137.jpg"></a> 
 
 #### <a name="quaggan"></a>Quaggan
+<a href="{{ site.baseurl }}public/images/portfolio/QuagganBumpy.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/QuagganBumpy-300x120.jpg"></a> 
 
 #### <a name="harpy"></a>Harpy
+<a href="{{ site.baseurl }}public/images/portfolio/HarpyMatriarch.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/HarpyMatriarch-300x286.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/Harpy_02.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Harpy_02-300x279.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/Harpy_03.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Harpy_03-300x206.jpg"></a>
+
 
 #### <a name="gwtwo"></a>Assorted Guildwars 2 Armors
 
