@@ -86,25 +86,35 @@ A point and click game using Unity engine, I put this project on hold because th
 <a href="{{ site.baseurl }}public/images/portfolio/EsperNormal.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperNormal-300x200.png"></a><a href="{{ site.baseurl }}public/images/portfolio/EsperSpirit.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperSpirit-300x200.png"></a><br />
 <a href="{{ site.baseurl }}public/images/portfolio/EsperInventory.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperInventory-300x200.png"></a><a href="{{ site.baseurl }}public/images/portfolio/EsperSeal.png"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperSeal-300x200.png"></a><br />
   
-#### <a name="swat">SWAT Commando  
-#### <a name="largos">Largos  
-#### <a name="quaggan">Quaggan  
-#### <a name="harpy">Harpy  
-#### <a name="gwtwo">Assorted Guildwars 2 Armors  
-#### <a name="cartoony">Cartoony Guard  
-#### <a name="gw_a">Assorted Guildwars 1 Creatures  
-#### <a name="gw_b">Assorted Guildwars 1 Armor Concepts  
-#### <a name="gw_c">Assorted Guildwars 1 Armors
+#### <a name="swat"></a>SWAT Commando
+I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
+
+*Hires:* <br />
+<a href="{{ site.baseurl }}public/images/portfolio/CommandoHires.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoHires-300x169.jpg"></a>
+
+*Low Res:* <br />
+<a href="{{ site.baseurl }}public/images/portfolio/CommandoGray.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoGray-300x176.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/CommandoGreen.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoGreen-300x139.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/CommandoArctic.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/CommandoArctic-300x136.jpg"></a>
+
+#### <a name="largos"></a>Largos  
+#### <a name="quaggan"></a>Quaggan  
+#### <a name="harpy"></a>Harpy  
+#### <a name="gwtwo"></a>Assorted Guildwars 2 Armors  
+#### <a name="cartoony"></a>Cartoony Guard  
+#### <a name="gw_a"></a>Assorted Guildwars 1 Creatures  
+#### <a name="gw_b"></a>Assorted Guildwars 1 Armor Concepts  
+#### <a name="gw_c"></a>Assorted Guildwars 1 Armors
   
-#### <a name="cin_a">GuildWars 2 Cinematics Finale Part 1  
-#### <a name="cin_b">GuildWars 2 Cinematics Finale Part 2  
-#### <a name="cin_c">GuildWars 2 Cinematic Shaman Dungeon  
-#### <a name="cin_d">GuildWars 2 Cinematics Order Vigil  
-#### <a name="cin_e">GuildWars 2 Cinematic Order Of Whispers  
-#### <a name="cin_f">GuildWars 2 Cinematics Norn Strength  
-#### <a name="cin_g">GuildWars 2 Cinematic Sylvari Moon  
-#### <a name="cin_h">GuildWars 2 Cinematics Human Common  
-#### <a name="cin_i">GuildWars 2 Cinematics Furnace  
-#### <a name="cin_j">GuildWars 2 Cinematics Dragon  
-#### <a name="cin_k">GuildWars 2 Cinematics Charr Blood  
-#### <a name="cin_l">GuildWars 2 Cinematic Iceberg
+#### <a name="cin_a"></a>GuildWars 2 Cinematics Finale Part 1  
+#### <a name="cin_b"></a>GuildWars 2 Cinematics Finale Part 2  
+#### <a name="cin_c"></a>GuildWars 2 Cinematic Shaman Dungeon  
+#### <a name="cin_d"></a>GuildWars 2 Cinematics Order Vigil  
+#### <a name="cin_e"></a>GuildWars 2 Cinematic Order Of Whispers  
+#### <a name="cin_f"></a>GuildWars 2 Cinematics Norn Strength  
+#### <a name="cin_g"></a>GuildWars 2 Cinematic Sylvari Moon  
+#### <a name="cin_h"></a>GuildWars 2 Cinematics Human Common  
+#### <a name="cin_i"></a>GuildWars 2 Cinematics Furnace  
+#### <a name="cin_j"></a>GuildWars 2 Cinematics Dragon  
+#### <a name="cin_k"></a>GuildWars 2 Cinematics Charr Blood  
+#### <a name="cin_l"></a>GuildWars 2 Cinematic Iceberg
