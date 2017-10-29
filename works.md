@@ -5,7 +5,7 @@ title: Works
 
 A collection of my past work, might take a while to load the whole page.
 
-### Game Dev
+### Personal Game Dev
 [Rytlock’s Critter Rampage (HTML5)](#rytlock)  
 [Itemania (iOS – Unity)](#itemania)  
 [Esper Quest (iOS – Unity)](#esper)
@@ -55,10 +55,10 @@ Maclaine Diemer did the music, Matthew Oswald & Taylor helps me with the title s
 <http://www.youtube.com/results?search_query=rytlock+critter&oq=rytlock+critter>
 
 *100% Playthrough on Rytlock mode by MattVisual :* <br />
-[![](http://i.ytimg.com/vi/gwuMyU_nJcU/hqdefault.jpg)](http://www.youtube.com/gwuMyU_nJcU)
+[![](http://i.ytimg.com/vi/gwuMyU_nJcU/hqdefault.jpg)](http://youtu.be/gwuMyU_nJcU)
 
 *Another playthrough by Dontain :*  <br />
-[![](http://i.ytimg.com/vi/WJj4KohKt00/hqdefault.jpg)](http://www.youtube.com/WJj4KohKt00)
+[![](http://i.ytimg.com/vi/WJj4KohKt00/hqdefault.jpg)](http://youtu.be/WJj4KohKt00)
 
 #### <a name="itemania">Itemania (iOS – Unity)
 A 3D Hidden Object Game, using Unity Engine.  
@@ -67,10 +67,10 @@ I did the design, programming and the 3D underwater level.
 This game is done together with Anicombo Team, Hai Phan, Donald Phan, Delly Sartika, Pavidcha Win Arayaphong and Chrissy Vu for the music.
 
 *Trailer:*  <br />
-[![](http://i.ytimg.com/vi/sJfzSu0sHS0/hqdefault.jpg)](http://www.youtube.com/sJfzSu0sHS0)
+[![](http://i.ytimg.com/vi/sJfzSu0sHS0/hqdefault.jpg)](http://youtu.be/sJfzSu0sHS0)
 
 *Gameplay:*  <br />
-[![](http://i.ytimg.com/vi/2TcfKtFb52M/hqdefault.jpg)](http://www.youtube.com/2TcfKtFb52M)
+[![](http://i.ytimg.com/vi/2TcfKtFb52M/hqdefault.jpg)](http://youtu.be/2TcfKtFb52M)
 
 *Screenshots:* <br />
 <a href="{{ site.baseurl }}public/images/portfolio/MainMenu.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/MainMenu-300x200.jpg"></a><a href="{{ site.baseurl }}public/images/portfolio/LevelSelect.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LevelSelect-300x200.jpg"></a><br />
@@ -80,6 +80,11 @@ This game is done together with Anicombo Team, Hai Phan, Donald Phan, Delly Sart
 A point and click game using Unity engine, I put this project on hold because the scope of the project grow bigger than what I can manage. I did the design & programming and Pavidcha Arayaphong did the illustration. Below are some WIP test screenshots & gameplay video.
   
 *Gameplay:* <br />
+[![](http://i.ytimg.com/vi/yEWvlgO0F9E/hqdefault.jpg)](http://youtu.be/yEWvlgO0F9E)
+
+*Screenshots:* <br />
+<a href="{{ site.baseurl }}public/images/portfolio/EsperNormal.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperNormal-300x200.png"></a><a href="{{ site.baseurl }}public/images/portfolio/EsperSpirit.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperSpirit-300x200.png"></a><br />
+<a href="{{ site.baseurl }}public/images/portfolio/EsperInventory.png""><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperInventory-300x200.png"></a><a href="{{ site.baseurl }}public/images/portfolio/EsperSeal.png"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/EsperSeal-300x200.png"></a><br />
   
 #### <a name="swat">SWAT Commando  
 #### <a name="largos">Largos  
