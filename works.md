@@ -159,10 +159,10 @@ I model & texture this Swat Commando for ArenaNet April’s Fool 2011.
 <a href="{{ site.baseurl }}public/images/portfolio/AssassinFemaleUniqueItems.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/AssassinFemaleUniqueItems-213x300.jpg"></a>
 <a href="{{ site.baseurl }}public/images/portfolio/AssassinMaleUniqueItems.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/AssassinMaleUniqueItems-168x300.jpg"></a>  
 <a href="{{ site.baseurl }}public/images/portfolio/RangerAzuraFemale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/RangerAzuraFemale-154x300.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/RangerAzuraMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/RangerAzuraMale-174x300.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/MesmerCustomMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/MesmerCustomMale-300x282.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/RangerAzuraMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/RangerAzuraMale-174x300.jpg"></a>  
 <a href="{{ site.baseurl }}public/images/portfolio/RangerCustomFemale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/RangerCustomFemale-169x300.jpg"></a>
-<a href="{{ site.baseurl }}public/images/portfolio/RangerCustomMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/RangerCustomMale-160x300.jpg"></a>
+<a href="{{ site.baseurl }}public/images/portfolio/RangerCustomMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/RangerCustomMale-160x300.jpg"></a>  
+<a href="{{ site.baseurl }}public/images/portfolio/MesmerCustomMale.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/MesmerCustomMale-300x282.jpg"></a>
 
 #### <a name="gw_c"></a>Assorted Guildwars 1 Armors
 <a href="{{ site.baseurl }}public/images/portfolio/GW-Prophecies0.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/GW-Prophecies0-300x187.jpg"></a>
