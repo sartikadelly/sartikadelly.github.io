@@ -52,16 +52,35 @@ Maclaine Diemer did the music, Matthew Oswald & Taylor helps me with the title s
 <a href="{{ site.baseurl }}public/images/portfolio/ShopKeep.png"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/ShopKeep-300x225.png"></a><a href="{{ site.baseurl }}public/images/portfolio/Cave.png"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Cave-300x225.png"></a><br />
 
 *Bunch of playthrough on youtube, it’s quite fun to watch:*  <br />
-http://www.youtube.com/results?search_query=rytlock+critter&oq=rytlock+critter
-<br />
+<http://www.youtube.com/results?search_query=rytlock+critter&oq=rytlock+critter>
+
 *100% Playthrough on Rytlock mode by MattVisual :* <br />
-[![](http://i.ytimg.com/vi/gwuMyU_nJcU/0.jpg)](http://youtu.be/gwuMyU_nJcU)
+[![](http://i.ytimg.com/vi/gwuMyU_nJcU/hqdefault.jpg)](http://www.youtube.com/embed/gwuMyU_nJcU)
 
 *Another playthrough by Dontain :*  <br />
 [![](http://i.ytimg.com/vi/WJj4KohKt00/hqdefault.jpg)](http://www.youtube.com/embed/WJj4KohKt00)
 
-### <a name="itemania">Itemania (iOS – Unity)  
-### <a name="esper">Esper Quest (iOS – Unity)  
+### <a name="itemania">Itemania (iOS – Unity)
+A 3D Hidden Object Game, using Unity Engine.  
+Already offline from Itune Store but I might put it back in the Itunes someday in the near future.  
+I did the design, programming and the 3D underwater level.  
+This game is done together with Anicombo Team, Hai Phan, Donald Phan, Delly Sartika, Pavidcha Win Arayaphong and Chrissy Vu for the music.
+
+*Trailer:*  <br />
+[![](http://i.ytimg.com/vi/sJfzSu0sHS0/hqdefault.jpg)](http://www.youtube.com/embed/sJfzSu0sHS0)
+
+*Gameplay:*  <br />
+[![](http://i.ytimg.com/vi/2TcfKtFb52M/hqdefault.jpg)](http://www.youtube.com/embed/2TcfKtFb52M)
+
+*Screenshots:* <br />
+<a href="{{ site.baseurl }}public/images/portfolio/MainMenu.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/MainMenu-300x200.jpg"></a><a href="{{ site.baseurl }}public/images/portfolio/LevelSelect.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/LevelSelect-300x200.jpg"></a><br />
+<a href="{{ site.baseurl }}public/images/portfolio/Lv05.jpg"><img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Lv05-300x200.jpg"></a><a href="{{ site.baseurl }}public/images/portfolio/Lv07.jpg"> <img src="{{ site.baseurl }}public/images/portfolio/thumbnails/Lv07-300x200.jpg"></a><br />
+
+### <a name="esper">Esper Quest (iOS – Unity)
+A point and click game using Unity engine, I put this project on hold because the scope of the project grow bigger than what I can manage. I did the design & programming and Pavidcha Arayaphong did the illustration. Below are some WIP test screenshots & gameplay video.
+  
+*Gameplay:* <br />
+  
 ### <a name="swat">SWAT Commando  
 ### <a name="largos">Largos  
 ### <a name="quaggan">Quaggan  
