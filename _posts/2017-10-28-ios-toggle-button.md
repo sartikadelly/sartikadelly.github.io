@@ -3,7 +3,10 @@ layout: post
 title: Adding Maya iOS Style Toggle Button on repo
 ---
 
-Here's a class for making an iOS Style toggle button in Maya (2014 and beyond) using python.
+Link to repo:
+<https://github.com/sartikadelly/ios-togglebutton-for-maya>
+
+Here's a class for making iOS Style toggle button for Maya (2014 and beyond) using Python.
 It's fully customizeable too.
 
 ## Class
@@ -120,5 +123,7 @@ widget.show()
 ```
 <img src="https://raw.githubusercontent.com/sartikadelly/ios-togglebutton-for-maya/master/screenshots/toggle_example_04.png">
 
+Link to repo:
+<https://github.com/sartikadelly/ios-togglebutton-for-maya>
 
 
