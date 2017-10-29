@@ -14,6 +14,7 @@ I’m a *Technical Artist* at *ArenaNet* and a hobbyist game developer.
 * Character Artist, 2004 – 2010 (Guildwars, Factions, Nightfall, Eye Of The North, Guildwars 2)
 
 **You can reach me at:**
-*sartikadelly@gmail.com* <br />
-[![]({{ site.baseurl }}public/images/icons/linkedin.png)](https://www.linkedin.com/in/sartikadelly/) <br />
-[![]({{ site.baseurl }}public/images/icons/github.png)](https://github.com/sartikadelly)
+
+* *sartikadelly@gmail.com* <br />
+* [![]({{ site.baseurl }}public/images/icons/linkedin.png)](https://www.linkedin.com/in/sartikadelly/) <br />
+* [![]({{ site.baseurl }}public/images/icons/github.png)](https://github.com/sartikadelly)
