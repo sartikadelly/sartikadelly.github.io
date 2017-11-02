@@ -86,13 +86,31 @@ class ToggleButton(parent=None,
     </tr>   
 </table>  
 
+##### Signal
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>  
+    <tr>
+      <td>clicked(<i>bool</i>)</td>
+      <td>Called when toggle button is clicked</td>
+    </tr>   
+</table>  
+
 #### Example Usage
 ```python
 import toggle_button
 
-# Default toggle button with 32 height, and blue color as the active color
-widget = toggle_button.ToggleButton()
+widget = toggle_button.ToggleButton(width=100, colorActive=toggle_button.RED)
 widget.show()
+
+def print_me(state):
+  print 'Toggle Clicked ', state
+  
+widget.clicked.connect(print_me)
 ```
 ![](https://raw.githubusercontent.com/sartikadelly/ios-togglebutton-for-maya/master/screenshots/toggle_example_01.png)
 
